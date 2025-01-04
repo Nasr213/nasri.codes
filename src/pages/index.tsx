@@ -33,15 +33,10 @@ const aboutStats = [
 ];
 
 const projects = [
+
   {
-    title: "Unqueue",
+    title: "Cybershop",
     description: "E-commerce platform for selling digital products",
-    image: "/assets/unqueue.webm",
-    href: "https://unqueue.shop/",
-  },
-  {
-    title: "InfiniteVPS",
-    description: "High performance VPS hosting solution",
     image: "/assets/infinitevps.webm",
     href: "#",
   },
@@ -49,13 +44,7 @@ const projects = [
     title: "TranslateBot",
     description: "Powerful Multilingual Translation Bot for Discord",
     image: "/assets/translate_bot.webm",
-    href: "https://translatebot.app/",
-  },
-  {
-    title: "Cybershop",
-    description: "Robotics-focused technology company",
-    image: "/assets/wrona.jpeg",
-    href: "https://www.wrona.com/",
+    href: "#",
   },
   {
     title: "This website",
@@ -73,7 +62,7 @@ const services = [
     icon: Code2,
   },
   {
-    service: "Conceon UX",
+    service: "Conception UX",
     description:
       "Création de designs intuitifs et centrés sur l&apos;utilisateur pour favoriser l&apos;engagement et la conversion.",
     icon: Frame,
