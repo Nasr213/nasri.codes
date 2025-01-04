@@ -260,7 +260,7 @@ export default function Home() {
               >
                 TypeScript, Tailwind, and Next.js
               </Link>{" "}
-              depuis 2021. Mon expérience s&apos;étend des startups aux entreprises de taille moyenne, où j&apos;ai joué un rôle clé dans l&apos;ensemble du processus de conception produit : de l&apos;idéation et la création de wireframes, en passant par le prototypage, jusqu&apos;à la livraison du produit final, tout en collaborant efficacement avec des équipes transversales.
+              depuis 2022. Mon expérience s&apos;étend des startups aux entreprises de taille moyenne, où j&apos;ai joué un rôle clé dans l&apos;ensemble du processus de conception produit : de l&apos;idéation et la création de wireframes, en passant par le prototypage, jusqu&apos;à la livraison du produit final, tout en collaborant efficacement avec des équipes transversales.
             </h2>
             <div className="grid grid-cols-2 gap-8 xl:grid-cols-3">
               {aboutStats.map((stat) => (
