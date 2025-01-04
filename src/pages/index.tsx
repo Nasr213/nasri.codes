@@ -58,27 +58,27 @@ const services = [
   {
     service: "Développement Frontend",
     description:
-      "Création d&apos;interfaces utilisateur exceptionnelles et d&apos;expériences web en utilisant les technologies les plus récentes.",
+      "Création d'interfaces utilisateur exceptionnelles et d'expériences web en utilisant les technologies les plus récentes.",
     icon: Code2,
   },
   {
     service: "Conception UX",
     description:
-      "Création de designs intuitifs et centrés sur l&apos;utilisateur pour favoriser l&apos;engagement et la conversion.",
+      "Création de designs intuitifs et centrés sur l'utilisateur pour favoriser l'engagement et la conversion.",
     icon: Frame,
   },
   {
     service: "Design Responsive",
     description:
-      "Conception de sites web qui s&apos;affichent et fonctionnent de manière optimale sur tous les appareils et tailles d&apos;écran.",
+      "Conception de sites web qui s'affichent et fonctionnent de manière optimale sur tous les appareils et tailles d'écran.",
     icon: MonitorSmartphone,
   },
   {
     service: "Développement Backend",
     description:
-      "Développement de la logique côté serveur robuste et évolutive pour une large gamme d&apos;applications web.",
+      "Développement de la logique côté serveur robuste et évolutive pour une large gamme d'applications web.",
     icon: Eye,
-  },
+  },  
 ];
 
 
