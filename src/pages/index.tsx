@@ -238,7 +238,7 @@ export default function Home() {
             className="mt-14 h-full w-full xl:mt-0"
           >
             <Suspense fallback={<span>Loading...</span>}>
-              <Spline scene="/assets/scene.splinecode" />
+              <Spline scene="/assets/scenee.splinecode" />
             </Suspense>
           </div>
         </section>
