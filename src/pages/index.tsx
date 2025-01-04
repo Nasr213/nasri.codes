@@ -27,7 +27,7 @@ import VanillaTilt from "vanilla-tilt";
 import { motion } from "framer-motion";
 
 const aboutStats = [
-  { label: "Années d&apos;expérience", value: "2+" },
+  { label: "Années d'expérience", value: "2+" },
   { label: "Technologies maîtrisées", value: "5+" },
   { label: "Entreprises collaborées avec", value: "5+" },  
 ];
@@ -78,7 +78,8 @@ const services = [
     description:
       "Développement de la logique côté serveur robuste et évolutive pour une large gamme d'applications web.",
     icon: Eye,
-  },  
+  },
+  
 ];
 
 
@@ -328,7 +329,7 @@ export default function Home() {
                               <Image
                                 src={project.image}
                                 alt={project.title}
-                                width={600}
+                                width={800}
                                 height={300}
                                 quality={100}
                                 className="aspect-video h-full w-full rounded-t-md bg-primary object-cover"
